@@ -19,7 +19,6 @@ Abaixo encontra-se uma imagem que exemplifica o layout da página, e em seguida 
         4. Uma sidebar aparecerá à direita. Nela, copie o HTML (as tags `link`) e cole-o dentro da tag `head` da sua página
         5. Copie o `font-family` dado na sidebar e coloque-o no estilo do `body` 
 - [ ]  Todas as notícias devem ser links. Não é necessário colocar links para as páginas reais, pode ser um link fake (ex: `https://globo.com`).
-- Imagens
       
 
 # Bônus
